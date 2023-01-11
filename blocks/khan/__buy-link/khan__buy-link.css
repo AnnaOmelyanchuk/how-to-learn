@@ -7,7 +7,7 @@
 }
 
 .khan__buy-link:hover {
-  filter: alpha(Opacity=50);
+  filter: alpha(opacity=50);
   -moz-opacity: 0.5;
   -khtml-opacity: 0.5;
   opacity: 0.5;
