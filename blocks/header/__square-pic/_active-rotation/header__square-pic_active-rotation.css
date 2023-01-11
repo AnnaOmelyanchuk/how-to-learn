@@ -1,0 +1,6 @@
+.header__square-pic_active-rotation {
+  -webkit-animation: rotation 20s infinite linear;
+  -moz-animation: rotation 20s infinite linear;
+  -o-animation: rotation 20s infinite linear;
+  animation: rotation 20s infinite linear;
+}
